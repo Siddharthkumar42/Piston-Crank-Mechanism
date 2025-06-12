@@ -1,3 +1,5 @@
+**Simulation of Piston-crank mechanism**
+
 This project demonstrates the design and simulation of a **piston-crank mechanism** using **CATIA V5**. The model replicates the motion of a basic internal combustion engine, where rotary motion of the crankshaft is converted into the linear motion of the piston.
 
 ## 🛠 Features
